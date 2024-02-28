@@ -29,7 +29,7 @@ Welcome to FlutterPP, your developer companion for building Flutter apps with ea
 
 ## Overview
 
-FlutterPP (Flutter Plus Plus) is a low-code tool designed to significantly reduce development time by automating code generation for Flutter applications. This initial release, version 0.0.1, marks the beginning of an exciting journey towards making Flutter development more efficient and accessible.
+FlutterPP (Flutter Plus Plus) is a low-code tool designed to significantly reduce development time by automating code generation for Flutter applications. This initial release, marks the beginning of an exciting journey towards making Flutter development more efficient and accessible.
 
 ## Features
 
